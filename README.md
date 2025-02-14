@@ -1,4 +1,4 @@
-Random Quotes Generator – Android App (Kotlin)
+# Random Quotes Generator – Android App (Kotlin)
 
 This Android app, built using Kotlin in Android Studio, generates and displays random quotes along with the name of the author. It provides a simple and clean interface, allowing users to get a new quote with a single tap.
 
